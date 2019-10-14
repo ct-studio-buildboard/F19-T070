@@ -1,0 +1,34 @@
+company:
+  name: AT&T
+  logo: ATT_Company_logo.png
+product_hmw: How might we enable the future of television that leverages the internet to augment live TV, movies events, news and sports?
+product_narrative: |
+  AT&T will release a new TV service in 2019 which will be delivered over the internet. Consumers have the option of consuming live and on-demand content on a next generation hardware device that merges TV and apps. The new service will be powered by a voice assistant and a flexible operating system will enable endless digital experiences for consumers on the living room screen.
+team:
+  picture: osprey_group_pic.jpg
+  roster:
+  - name: Yanlin (Olivia) Chen
+    email: yc2565@cornell.edu
+    picture: 
+    program: CS
+  - name: Kaitlin Hemric
+    email: keh249@cornell.edu
+    picture: 
+    program: MBA
+  - name: Prithvi Siriam
+    email: ps976@cornell.edu
+    picture: prithvi_headshot.jpg
+    program: CS
+  - name: Taixiang (Max) Zeng
+    email: tz376@cornell.edu
+    picture: max_headshot.jpg
+    program: CM
+  - name: Xuefei (FiFi) Zhang
+    email: zhanx572@newschool.edu
+    picture: 
+    program: Parsons
+
+
+assets:
+- title: Sprint 1
+  url: https://docs.google.com/presentation/d/1Spoe49DKKFfdb4-4kzl7yEJU1drKj_VOfJyLJCgBJmU/edit?usp=sharing
